@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(211, 239, 249);
+  font-family: Lato, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    Color: rgb(20, 78, 120);
+    border-style: Solid;
+    border: 2px solid rgb(10, 22, 27);
+  border-radius: 12px;
+  padding: 5px;
+}
+
+p {
+    font-family: IBM Plex Mono, monospace;
+    color: rgb(36, 23, 43)
+}
+
+a {
+    color:rgb(64, 109, 255)
+}
+
+img {
+    width: 30%;
+  background-color: rgb(0, 3, 42);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 50%
+  text-align: center;
+  padding: 10px 20px;
+}
+
+li {
+    color: rgb(51, 67, 62);
+  margin: 7px;
+}
+
+details {
+    color: rgb(44, 2, 80);
+}
