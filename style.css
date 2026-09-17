@@ -45,3 +45,9 @@ li {
 details {
     color: rgb(44, 2, 80);
 }
+
+#Introduction {
+    background-color:rgb(55, 140, 243);
+    border: 2px solid black;
+    padding: 20px;
+}
