@@ -51,3 +51,15 @@ details {
     border: 2px solid black;
     padding: 20px;
 }
+
+div {
+  border: 2px solid rgb(1, 1, 75);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.highlight {
+  background-color: rgb(55, 140, 243);
+  color: rgb(1, 1, 75);
+  padding: 10px;
+}
