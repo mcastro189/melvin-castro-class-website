@@ -12,11 +12,13 @@ h2 {
 }
 
 h3 {
-    Color: rgb(20, 78, 120);
+    Color: rgb(1, 8, 14);
     border-style: Solid;
-    border: 2px solid rgb(10, 22, 27);
+    border: 2px solid rgb(1, 0, 24);
   border-radius: 12px;
   padding: 5px;
+  width: 25%;
+  text-align: center;
 }
 
 p {
@@ -43,7 +45,13 @@ li {
 }
 
 details {
-    color: rgb(44, 2, 80);
+  text-align: center;
+  color: rgb(44, 2, 80);
+}
+
+a {
+  display: block;
+  margin-top: 20px;
 }
 
 #Introduction {
