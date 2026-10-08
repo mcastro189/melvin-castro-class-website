@@ -1,0 +1,52 @@
+body {
+    background-color: #ddd;
+    font-family: georgia, 'Times New Roman', Times, serif;;
+    text-align: center;
+}
+
+.phone {
+    width: 300px;
+    height: 550px;
+    background-color: #000000;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+#screen {
+    width: 300px;
+    height: 550px;
+    background-color: rgb(29, 28, 28);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+#off {
+    padding-top: 250px;
+    color: rgb(255, 255, 255);
+}
+
+#on {
+    display: none;
+    height: 100%;
+    padding-top: 120px;
+    box-sizing: border-box;
+    background-color: #ceefff;
+    color: rgb(0, 0, 0);
+}
+
+#time {
+    font-size: 70px;
+    margin: 0;
+}
+
+#date {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#powerButton {
+    margin-top: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
